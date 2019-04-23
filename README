@@ -1,1 +1,18 @@
 Wisconsin Benchmark Project
+Shruti Nuchhi
+DB- 587
+Project -Part1
+                                                        WISCONSIN BENCHMARK PROJECT 
+
+Description 
+The project part one consists of creating 3 tables and inserting the data into the tables using the rules mentioned in the Wisconsin benchmark paper.  
+•	Established a connection to POSTGRESQL using the python script and made sure that the connection is closed once done with usage of DB.
+
+•	Created tables ONEKTUP, TENKTUP1, TENKTUP2 with 1000, 10000, and 10000 records respectively using python script.
+
+•	Inserted data into the created tables using the rules and algorithm mentioned in Wisconsin benchmark paper. 
+I chose to work with POSTGRESQL as I have used the POSTGRESQL in 586 and found it, as a good database to work with. Also I would want to learn more in depth of the DB so chose POSTGRES to understand how the next part of the project will evaluate the performance using the tables and data that we created. The programming language I chose is python as the benchmark uses a lot of random generators to insert data into the tables. Python provides an easier and simple way to generate the random numbers as per the requirement for our project.
+Challenges faced – I had issue with the initial setup of the POSTGRESQL on my system. I use windows and do feel that windows is tricky to install certain things and isn’t most of the times straightforward.
+However the ‘le Google’ did help to get the issue resolved and was successfully able to connect to the DB and create tables and insert data into them.
+Lessons learnt as part the programming language is to understand how to set up the db and connect to the database through a program.
+Also learnt the python way to create, insert and update the database.

@@ -9,7 +9,6 @@ def char_convert(unique):
     result = []
     u = unique
     tmp = ['A', 'A', 'A', 'A', 'A', 'A', 'A']
-    print(u)
     for i in range(52):
         if i < 7:
             result.append('A')
